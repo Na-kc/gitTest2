@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/Na-kc/gitTest2.git
+git push -u origin master
+----------------------------수정-------------------------------
+git add .
+git commit -m "update todo"
+git push -u origin master
+--------------------------불러오기-----------------------------
+git pull
