@@ -6,5 +6,8 @@ public class asdf {
 		// TODO Write main function
 
 	}
-
+	
+	public static void Dovoid() {
+		
+	}
 }
