@@ -1,8 +1,7 @@
 package First;
 import java.util.Scanner;
 
-public class Score {
-
+public class Score { // Practice #5 - 학점 계산
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

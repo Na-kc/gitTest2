@@ -1,5 +1,4 @@
 package First;
-
 public class Arith {
 	int Sum(int a, int b) {
 		return a + b;

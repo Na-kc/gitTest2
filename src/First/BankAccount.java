@@ -1,8 +1,8 @@
 package First;
 import java.util.*;
 import java.text.*;
-public class BankAccount {
 
+public class BankAccount { // Practice #11 - °èÁÂ°ü¸®½Ã½ºÅÛ
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -13,8 +13,9 @@ public class BankAccount {
 		String price = "";
 		NumberFormat nf = NumberFormat.getInstance();
 		
-		System.out.println("°èÁÂ 123-456789 (¿¹±ÝÁÖ : È«±æµ¿");
-		System.out.printf("ÀÜ¾× : %d¿ø\n", account);
+		System.out.println("°èÁÂ 123-456789 (¿¹±ÝÁÖ : È«±æµ¿)");
+		price = nf.format(account);
+		System.out.println("ÀÜ¾× : "+ price + "¿ø");
 		
 		while(true) {
 			
@@ -30,7 +31,7 @@ public class BankAccount {
 			else if(bankwork.contains("Ãâ±Ý")) {
 				if(money >= 0) { account -= money; }
 				price = nf.format(account);
-				if(account <= 0) {
+				if(account < 0) {
 					System.out.println("[¿¡·¯] ÀÜ¾×ÀÌ ºÎÁ·ÇÕ´Ï´Ù.");
 					break;
 				}

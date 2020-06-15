@@ -1,7 +1,6 @@
 package First;
 
-public class Star {
-
+public class Star { //Practice #4 - 별표 출력
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i = 0 , j = 1;

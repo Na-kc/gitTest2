@@ -1,6 +1,6 @@
 package First;
-public class Gugu {
 
+public class Gugu { //Practice #3 - ±¸±¸´Ü
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 0, Gugu = 0;

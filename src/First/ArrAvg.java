@@ -1,7 +1,6 @@
 package First;
 
-public class ArrAvg {
-
+public class ArrAvg { // Practice #6 - ÇÕ°è¿Í Æò±Õ
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

@@ -1,6 +1,6 @@
 package First;
-public class Sum {
 
+public class Sum { // Practice #2 - 합계구하기
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int sum = 0;

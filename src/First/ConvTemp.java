@@ -1,6 +1,6 @@
 package First;
-public class ConvTemp {
 
+public class ConvTemp { // Practice #1 - 온도변화
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		double Ctemp = 31.5f;

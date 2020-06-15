@@ -1,7 +1,7 @@
 package First;
 import java.util.Scanner;
-public class Str {
 
+public class Str { // Practice #8 - 대소문자 변환
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

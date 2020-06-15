@@ -1,6 +1,7 @@
 package First;
 import java.util.Scanner;
-public class Caesar {
+
+public class Caesar { // Practice #9 - 시저의 암호
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

@@ -1,7 +1,6 @@
 package First;
 
-public class MArr {
-
+public class MArr { // Practice #7 - 국영수 합계와 평균
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
